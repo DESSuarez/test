@@ -1,1 +1,2 @@
 hi this is a text for git hub repository
+I'm still learning to code and to use github
